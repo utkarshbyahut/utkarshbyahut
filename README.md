@@ -37,9 +37,10 @@ in MuJoCo and NVIDIA Isaac Sim.
 ## Stack
 
 **Languages** Python · C++ · C · MATLAB · SQL
-**Robotics & simulation** ROS 2 (Humble) · PX4 · QGroundControl · MuJoCo · NVIDIA Isaac Sim · Foxglove Studio
-**Hardware & edge** NVIDIA Jetson · Pixhawk · ZED 2 stereo camera · optical flow sensors · 6-DOF manipulators
-**AI & vision** PyTorch · YOLO · OpenCV · Kalman filtering · multi-agent systems
+
+- **Robotics & simulation** ROS 2 (Humble) · PX4 · QGroundControl · MuJoCo · NVIDIA Isaac Sim · Foxglove Studio
+- **Hardware & edge** NVIDIA Jetson · Pixhawk · ZED 2 stereo camera · optical flow sensors · 6-DOF manipulators
+- **AI & vision** PyTorch · YOLO · OpenCV · Kalman filtering · multi-agent systems
 
 ---
 
