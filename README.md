@@ -14,8 +14,7 @@ decision with incomplete information and a power budget.
 drone swarms operating in information-constrained environments, on motion-capture and PX4-based
 flight stacks.
 
-**Edge perception and deployment** — Custom object detection pipelines trained on 16k+ image
-datasets, with low-level architecture optimization for real-time inference on NVIDIA Jetson.
+**Edge perception and deployment** — Custom object detection pipeline with low-level architecture optimization for real-time inference on NVIDIA Jetson.
 
 **Manipulation and simulation** — Vision-Language-Action workflows and autonomous task simulation
 in MuJoCo and NVIDIA Isaac Sim.
